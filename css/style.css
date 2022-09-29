@@ -1,0 +1,42 @@
+body {
+    background: black;
+}
+
+.clock {
+    position: relative;
+    text-align: center;
+    color: #eeeeee;
+    font-size: 60px;
+    font-family: 'Bungee Spice', cursive;
+    letter-spacing: 7px;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: #ec5509;
+    text-shadow: 2px 2px #ff0022;
+    font-size: 50px;
+    font-family: 'Noto Sans Mono', monospace;
+    letter-spacing: 3px;
+    margin: 10px 15px;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: #ec5509;
+    text-shadow: 2px 2px #ff0022;
+    font-size: 40px;
+    font-family: 'Noto Sans Mono', monospace;
+    letter-spacing: 3px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin: 5px 15px;
+}
+
+img {
+    margin-top: 130px;
+    margin-bottom: 40px;
+    width: 20%;
+}
